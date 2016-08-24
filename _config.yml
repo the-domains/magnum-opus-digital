@@ -16,5 +16,8 @@ navigation:
   - name: About Us
     url: 'http://www.magnumopusdigital.net/about-us.html'
     type: external
+  - name: Contact us
+    url: 'http://www.magnumopusdigital.net/contact-us.html'
+    type: external
 title: Digital Solutions
 description: Audio - Video - Patio Music - High End Landscape Lighting
