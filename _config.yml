@@ -22,5 +22,8 @@ navigation:
   - name: Home Audio & Video
     url: 'http://www.magnumopusdigital.net/home-audio-video.html'
     type: external
+  - name: Business Audio & Video
+    url: 'http://www.magnumopusdigital.net/business-audio-video.html'
+    type: external
 title: Digital Solutions
 description: Audio - Video - Patio Music - High End Landscape Lighting
