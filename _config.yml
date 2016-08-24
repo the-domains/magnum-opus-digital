@@ -11,6 +11,10 @@ color:
     - '#5C6B73'
     - '#253237'
 layout_spectrum: 0.4029858831781894
-name: Magnum Opus Digital
+name: Magnum Opus Digital Entertainment
+navigation:
+  - name: About Us
+    url: 'http://www.magnumopusdigital.net/about-us.html'
+    type: external
 title: Digital Solutions
 description: Audio - Video - Patio Music - High End Landscape Lighting
